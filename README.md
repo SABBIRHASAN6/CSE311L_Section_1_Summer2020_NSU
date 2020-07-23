@@ -130,7 +130,7 @@ This course introduces students with database management systems for the first t
 
 ## _Project_ 
 <p align="justify">
-* Submit your group member list through this excel file - https://docs.google.com/spreadsheets/d/1-FfFx5MhNGzg7_fZ665ViXZ9g0XHScLs2sEiX_ebKn0/edit?usp=sharing
+* Submit your group member list through this excel file - https://bit.ly/2OQ6ilJ
 </p>
 </br>
 
