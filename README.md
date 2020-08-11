@@ -106,27 +106,10 @@ This course introduces students with database management systems for the first t
 
 ## _Homework:_(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Homework 1</th> 
-    <th>17.07.2020 (Before 11.59pm)</th>   
-  </tr> 
-</table>
-</p>
-</br>
 
 ## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
 
-<p align="central">
-  <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-  <tr>
-    <th>Assessment 1</th> 
-    <th>11.07.2020 (Before 11.59am)</th>   
-  </tr> 
-</table>
-</p>
-</br>
+## _Marks:_ (Updated here <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/blob/master/Marks/CSE311L_Section_1_Marks.pdf">Link</a>)
 
 ## _Project_ 
 <p align="justify">
