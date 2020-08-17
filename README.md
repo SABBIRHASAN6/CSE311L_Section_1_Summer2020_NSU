@@ -67,7 +67,7 @@ This course introduces students with database management systems for the first t
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide/Lab_1">Lab1</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide/Lab_1">Lab 1</a></th> 
     <th>Introduction to Github and SQL</th>
     <th>11.07.2020</th>
   </tr>
