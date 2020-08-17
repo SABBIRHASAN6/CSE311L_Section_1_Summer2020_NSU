@@ -73,19 +73,19 @@ This course introduces students with database management systems for the first t
   </tr>
     <tr>
   <th>Week 2</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="">Lab 2</a></th> 
     <th>SQL Syntax and XAMPP introduction</th>
     <th>18.07.2020</th>
   </tr>
   <tr>
   <th>Week 3</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="">Lab 3</a></th> 
     <th>SQL Commands, basic operations</th>
     <th>25.07.2020</th>
   </tr>
   <tr>
     <th>Week 4</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer20_NSU_Midterm_1">Lab 4</a></th> 
     <th>Mid-Term</th>
     <th>18.08.2020</th>
   </tr>
