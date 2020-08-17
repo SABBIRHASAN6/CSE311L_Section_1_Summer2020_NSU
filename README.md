@@ -67,19 +67,19 @@ This course introduces students with database management systems for the first t
   </tr>
   <tr>
     <th>Week 1</th>
-    <th><a href="">Lab1</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide/Lab_1">Lab1</a></th> 
     <th>Introduction to Github and SQL</th>
     <th>11.07.2020</th>
   </tr>
     <tr>
   <th>Week 2</th>
-    <th><a href="">Lab 2</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide/Lab_1">Lab 2</a></th> 
     <th>SQL Syntax and XAMPP introduction</th>
     <th>18.07.2020</th>
   </tr>
   <tr>
   <th>Week 3</th>
-    <th><a href="">Lab 3</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/blob/master/Lecture%20Slide/Lab_3/CSE311_Section_1_Lab_3.pdf">Lab 3</a></th> 
     <th>SQL Commands, basic operations</th>
     <th>25.07.2020</th>
   </tr>
