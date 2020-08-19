@@ -121,12 +121,21 @@ This course introduces students with database management systems for the first t
 </p>
 </br>
 
-## _Homework:_(Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
+## _Submission Links_:
 
-## _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+* _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
-## _Marks:_ (Updated here <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/blob/master/Marks/CSE311L_Section_1_Marks.pdf">Link</a>)
+* _Lab Assessment:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission/Lab%20Assessment%201">Link</a>)
+</br>
+
+## _Lab Resource_:
+
+* _Marks:_ (Updated <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/blob/master/Marks/CSE311L_Section_1_Marks.pdf">Here</a>)
+* _Class Lecture_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide
+* _Lab Code_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Code
+
+</br>
 
 ## _Project_ 
 <p align="justify">
