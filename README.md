@@ -58,8 +58,6 @@ This course introduces students with database management systems for the first t
 > The marks distribution may change according to the discretion of the instructor.
 
 
-</br>
-
 ## _Tentative Class Schedule:_
 <p align="central">
 <table style="border:2px solid black;margin-left:auto;margin-right:auto;">
@@ -108,7 +106,6 @@ This course introduces students with database management systems for the first t
 
 </table>
 </p>
-</br>
 
 ## _Required Software:_
 
@@ -118,7 +115,6 @@ This course introduces students with database management systems for the first t
 4. **Github Desktop** - https://desktop.github.com/
 5. **Sublime Text** - https://www.sublimetext.com/3
 
-</br>
 
 ## _Submission Guideline_:
 <p align="central">
@@ -135,7 +131,6 @@ This course introduces students with database management systems for the first t
 10. Check your file is submitted or not.
 
 </p>
-</br>
 
 
 ## _Submission Links_:
@@ -143,7 +138,6 @@ This course introduces students with database management systems for the first t
 * _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
 
 * _Lab Assessment:_ (Submission <a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission">Link</a>)
-</br>
 
 ## _Lab Resource_:
 
@@ -151,13 +145,10 @@ This course introduces students with database management systems for the first t
 * _Class Lecture_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide
 * _Lab Code_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Code
 
-</br>
-
 ## _Project_ 
 <p align="justify">
 Submit your group member list through this excel file - https://bit.ly/2qrgpVV
 </p>
-</br>
 
 ## _Github Instructions:_
 <p align="justify">
