@@ -85,9 +85,21 @@ This course introduces students with database management systems for the first t
   </tr>
   <tr>
     <th>Week 4</th>
-    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer20_NSU_Midterm_1">Lab 4</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/blob/master/Lecture%20Slide/Lab_4_5/CSE311L_Section_1_Lab_4_5.pdf">Lab 4</a></th> 
+    <th>Table Joining</th>
+    <th>22.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 5</th>
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/blob/master/Lecture%20Slide/Lab_4_5/CSE311L_Section_1_Lab_4_5.pdf">Lab 5</a></th> 
+    <th>Table Grouping and Conditions</th>
+    <th>22.08.2020</th>
+  </tr>
+  <tr>
+    <th>Week 6</th>
+    <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer20_NSU_Midterm_1">Lab 6</a></th> 
     <th>Mid-Term</th>
-    <th>18.08.2020</th>
+    <th>29.08.2020</th>
   </tr>
 
 </table>
