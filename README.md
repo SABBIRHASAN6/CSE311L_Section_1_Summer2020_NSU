@@ -14,9 +14,6 @@ Instructor: <strong>Asif Ahmed Neloy</strong> (email: asif.neloy@northsouth.edu)
 * Thursday: 7.00 pm to 8.00 pm.
 * Link: https://meet.google.com/pnd-gfcz-ssg
 * **P.S. Make Sure you have studied the class lecture and slides, and the questions are well prepared before joining.**
-
-
-</br>
 </p>
 
 ## _Course Description:_ (Outline - <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/blob/master/Materials/CSE311L_Course_Outline_Summer_2020_Section_1.pdf">Here</a>)
@@ -27,7 +24,6 @@ This course introduces students with database management systems for the first t
 ## _Lab Hours:_
 * Saturday: 8.00 am to 11.10 pm.
 * **Lab will start from 8.10 am and attendance will be taken on 8.20 am**
-
 
 ## _Mark Distribution:_
 <p align="central">
@@ -115,7 +111,6 @@ This course introduces students with database management systems for the first t
 4. **Github Desktop** - https://desktop.github.com/
 5. **Sublime Text** - https://www.sublimetext.com/3
 
-
 ## _Submission Guideline_:
 <p align="central">
 
@@ -129,18 +124,14 @@ This course introduces students with database management systems for the first t
 8. Commit using a appropriate comment (```git commit -m "Homework 1 submission"```).
 9. Push to master Repo (```git push origin master```).
 10. Check your file is submitted or not.
-
 </p>
-
 
 ## _Submission Links_:
 
 * _Homework:_ (Submission <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/tree/master/Homework%20Submission">Link</a>)
-
 * _Lab Assessment:_ (Submission <a href="https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Asssessment%20Submission">Link</a>)
 
 ## _Lab Resource_:
-
 * _Marks:_ (Updated <a href="https://github.com/NeloyNSU/CSE311L_Section_1_Summer2020_NSU/blob/master/Marks/CSE311L_Section_1_Marks.pdf">Here</a>)
 * _Class Lecture_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lecture%20Slide
 * _Lab Code_: https://github.com/aaneloy/CSE311L_Section_1_Summer2020_NSU/tree/master/Lab%20Code
@@ -161,7 +152,6 @@ Submit your group member list through this excel file - https://bit.ly/2qrgpVV
   <li> <a href="https://gist.github.com/hofmannsven/6814451"> Git CheatSheet</a>.</li>
  </ol> 
 </p>
-
 
 </html>
 
