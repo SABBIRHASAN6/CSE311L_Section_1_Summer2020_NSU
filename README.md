@@ -96,13 +96,13 @@ This course introduces students with database management systems for the first t
   <tr>
     <th>Week 6</th>
     <th><a href="https://github.com/aaneloy/CSE311L_Section_1_Summer20_NSU_Midterm_1">Lab 6</a></th> 
-    <th>Mid-Term</th>
+    <th><b>Mid-Term</b></th>
     <th>29.08.2020</th>
   </tr>
   <tr>
     <th>Week 7</th>
     <th><a href="">Lab 7</a></th> 
-    <th>Subquery, Submission deadline of Project Phase -1 </th>
+    <th>Subquery, <b>Submission deadline of Project Phase -1 </b></th>
     <th>05.09.2020</th>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ This course introduces students with database management systems for the first t
    <tr>
   <th>Week 9</th>
     <th><a href="">Lab 9</a></th> 
-    <th>No-SQL, Submission deadline of Project Phase -2</th>
+    <th>No-SQL, <b>Submission deadline of Project Phase -2 </b></th>
     <th>19.09.2020</th>
   </tr>
   <tr>
