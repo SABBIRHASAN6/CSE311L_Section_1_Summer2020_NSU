@@ -99,6 +99,30 @@ This course introduces students with database management systems for the first t
     <th>Mid-Term</th>
     <th>29.08.2020</th>
   </tr>
+  <tr>
+    <th>Week 7</th>
+    <th><a href="">Lab 7</a></th> 
+    <th>Subquery, Submission deadline of Project Phase -1 </th>
+    <th>05.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 8</th>
+    <th><a href="">Lab 8</a></th> 
+    <th>SQL table manipulations</th>
+    <th>12.09.2020</th>
+  </tr>
+   <tr>
+  <th>Week 9</th>
+    <th><a href="">Lab 9</a></th> 
+    <th>No-SQL, Submission deadline of Project Phase -2</th>
+    <th>19.09.2020</th>
+  </tr>
+  <tr>
+    <th>Week 10</th>
+    <th><a href="">Lab 10</a></th> 
+    <th>Lab-Final</th>
+    <th>26.09.2020</th>
+  </tr>
 
 </table>
 </p>
