@@ -30,23 +30,23 @@ This course introduces students with database management systems for the first t
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th>Assignment(6):</th>
-    <th>30%</th> 
+    <th>20%</th> 
   </tr>
   <tr>
     <th>Lab Assessment(6):</th>
-    <th>25%</th>
+    <th>20%</th>
   <tr>
     <th>Quiz (6):</th>
     <th>10%</th> 
   </tr>
     <tr>
     <th>Midterm Exam (1):</th>
-    <th>15%</th>
+    <th>25%</th>
   </tr> 
    </tr>
     <tr>
     <th>Final (1):</th>
-    <th>20%</th>
+    <th>25%</th>
   </tr>  
 </table>
 </p>
